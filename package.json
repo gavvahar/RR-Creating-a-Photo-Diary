@@ -1,18 +1,27 @@
 {
   "name": "7.1.2-activity",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an activity for FSWD Lesson 7.1.2- JavaScript Modules: Smarter Code Splitting.",
   "main": "index.js",
   "scripts": {
     "start": "node ./bin"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "devDependencies": {
     "webpack": "^5.74.0",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "open": "^7.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavvahar/RR-Creating-a-Photo-Diary.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gavvahar/RR-Creating-a-Photo-Diary/issues"
+  },
+  "homepage": "https://github.com/gavvahar/RR-Creating-a-Photo-Diary#readme"
 }
